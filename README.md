@@ -1,2 +1,3 @@
 # hello-world
-My First Repo
+
+We want to help people learn german!
